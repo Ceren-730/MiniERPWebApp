@@ -1,10 +1,10 @@
-# MiniERPWebMVC
+# MiniERPWebApp
 
 ASP.NET Core MVC, Entity Framework Core ve SQL Server kullanılarak geliştirilen MiniERP web uygulaması.
 
 ## Proje Hakkında
 
-MiniERPWebMVC, ürün bilgilerinin web ortamında yönetilmesini sağlayan bir web uygulamasıdır.
+MiniERPWebApp, ürün bilgilerinin web ortamında yönetilmesini sağlayan bir web uygulamasıdır.
 Projede ASP.NET Core MVC mimarisi kullanılmış ve SQL Server veritabanı ile bağlantı sağlanmıştır.
 
 ## Kullanılan Teknolojiler
@@ -28,7 +28,7 @@ Projede ASP.NET Core MVC mimarisi kullanılmış ve SQL Server veritabanı ile b
 
 ## Proje Yapısı
 
-MiniERPWebMVC
+MiniERPWebApp
 ├── Controllers
 ├── Models
 ├── Views
